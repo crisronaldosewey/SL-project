@@ -1,0 +1,10 @@
+h1{
+	color: #5C6AC4;
+}
+
+p {
+  padding: 10px;
+	color: white;
+	background-color: #5C6AC4;
+	width: fit-content;
+}
