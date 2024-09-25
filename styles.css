@@ -1,10 +1,20 @@
-h1{
-	color: #5C6AC4;
-}
-
-p {
-  padding: 10px;
-	color: white;
-	background-color: #5C6AC4;
-	width: fit-content;
-}
+body{
+	padding: 25px;
+	background-color: #dbf1f9;
+  }
+  h1{
+	  color: #5C6AC4;
+  }
+  
+  p {
+	padding: 10px;
+	  color: white;
+	  background-color: #5C6AC4;
+  }
+  .titler {
+	text-align: center;
+	background-color: #0e3369;
+	background-color-outset: 30px;
+	width: fill-content;
+  }
+  
