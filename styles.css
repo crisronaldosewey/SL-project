@@ -1,15 +1,14 @@
-body{
+body {
 	padding: 25px;
 	background-color: #dbf1f9;
   }
-  h1{
+  h1 {
 	  color: #5C6AC4;
   }
-  
-  p {
+  p.status {
 	padding: 10px;
-	  color: white;
-	  background-color: #5C6AC4;
+	color: white;
+	background-color: #5C6AC4;
   }
   .titler {
 	text-align: center;
@@ -19,8 +18,11 @@ body{
   }
   .section-1 {
 	border-radius: 12px;
-    padding: 5px;
-    background-color: #FFFFFF;
-    margin: 15px;
-    box-shadow: 2px 2px 10px grey;
+  padding: 5px;
+  background-color: #FFFFFF;
+  margin: 15px;
+  box-shadow: 2px 2px 10px grey;
   }  
+  h2.header-1 {
+  color: #5C6AC4;
+  }
