@@ -9,6 +9,11 @@ body {
 	padding: 10px;
 	color: white;
 	background-color: #5C6AC4;
+	opacity: 0;
+  }
+  p.status:hover {
+  opacity: 100;
+  transition: 1s;
   }
   .titler {
 	text-align: center;
