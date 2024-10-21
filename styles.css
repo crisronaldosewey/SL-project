@@ -3,7 +3,16 @@ body {
 	background-color: #dbf1f9;
   }
   h1 {
-	  color: #5C6AC4;
+	color: #5C6AC4;
+  }
+  body.bgimg {
+  background-image: url("https://images2.minutemediacdn.com/image/upload/c_crop,w_4750,h_2671,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2Fthebiglead_en_international_web%2F01gmkcjnp27yzyvxrazk.jpg");
+  background-color: #cccccc;
+  text-align: center;
+	width: fill-content;
+  }
+  div.index-titler {
+  color: #white;
   }
   p.status {
 	padding: 10px;
